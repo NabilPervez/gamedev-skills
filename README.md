@@ -1,4 +1,4 @@
-# game-dev-skills
+# gamedev-skills
 
 A private, merged game-development skill pack for Claude Code: **155 skills and 50 agents**
 covering concept → GDD → tech PRD → sprint plan → build → test → deploy across 12 engines.
