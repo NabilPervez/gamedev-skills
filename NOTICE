@@ -1,0 +1,24 @@
+game-dev-skills
+Copyright 2026 Nabil Pervez. Original material licensed under MIT (see LICENSE).
+
+Original material: skills/game-studio-orchestrator, skills/game-design-doc,
+skills/game-tech-prd, studio/.claude/agents/game-studio-orchestrator.md, install.sh,
+scripts/, README.md.
+
+This product includes material from awesome-gamedev-agent-skills
+  Copyright 2026 Abhishek Barali and the awesome-gamedev-agent-skills contributors
+  Licensed under the Apache License, Version 2.0
+  (THIRD_PARTY/awesome-gamedev-agent-skills.LICENSE).
+  The upstream NOTICE is reproduced in THIRD_PARTY/awesome-gamedev-agent-skills.NOTICE.
+  Location in this repo: skills/ (all folders except the three original skills above).
+  Files were renamed and modified; each modified SKILL.md carries a change notice.
+
+This product includes material from Claude Code Game Studios by Donchitos
+  Copyright (c) 2026 Donchitos
+  Licensed under the MIT License (THIRD_PARTY/claude-code-game-studios.LICENSE).
+  Location in this repo: studio/ (except the orchestrator agent above).
+  Skills, agents and test specs were renamed and their cross-references updated;
+  see RENAMES.tsv.
+
+Engine and platform names are trademarks of their respective owners. No affiliation
+or endorsement is implied, including by the upstream authors.
